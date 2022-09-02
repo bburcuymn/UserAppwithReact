@@ -7,4 +7,4 @@
 -User id is given randomly.
 -When we want to delete the user, we can delete it by pressing the delete button in the table.
 
-![UserApp](./src/pictures/picture.PNG)
+![UserApp](./src/picture.PNG)
